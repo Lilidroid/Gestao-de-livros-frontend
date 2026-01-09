@@ -29,7 +29,7 @@ Visual Studio Code para codificação do Backend e Frontend
 
 Google Chrome para visualização do site Gestão de livros e da API
 
-Chat Open AI para verificação de erros e auxílio na codificação
+ChatGPT para verificação de erros e auxílio na codificação
 
 Draw.io para Diagrama 
 
